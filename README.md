@@ -8,12 +8,12 @@ BetterGameRecommender is a machine learning-based system that recommends video g
 ![App Screenshot](https://raw.githubusercontent.com/HilalAhmad01/Game-Genie/main/Game_Genie/Screenshot2.png)
 
 
-## :octocat: Features
+## 📋 Features
 - Efficient game recommendations using NLP and similarity models.
 - Clean and modular notebook implementation.
 - Uses game metadata for enhanced recommendations.
 
-## Requirements
+## 📝 Requirements
 Ensure you have the following installed:
 - Python 3.8 or higher
 - Jupyter Notebook
@@ -23,7 +23,7 @@ Ensure you have the following installed:
 - Matplotlib
 - Seaborn
 
-## Installation
+## 🤖 Installation
 1. Clone the repository:
     ```bash
     git clone https://github.com/HilalAhmad01/Game-Genie.git
@@ -38,12 +38,12 @@ Ensure you have the following installed:
     jupyter notebook
     ```
 
-## Usage
+## 🚀 Usage
 - Open `BetterGameRecommender.ipynb` in Jupyter Notebook.
 - Follow the notebook's cells for data loading, preprocessing, model training, and game recommendations.
 - Provide sample game preferences to receive personalized recommendations.
 
-## File Structure
+## 🗂️ File Structure
 ```
 BetterGameRecommender/
 ├── BetterGameRecommender.ipynb # Main notebook
@@ -52,12 +52,12 @@ BetterGameRecommender/
 └── README.md                   # Project documentation
 ```
 
-## Troubleshooting
+## ⭕ Troubleshooting
 - Ensure all libraries are installed using `pip install -r requirements.txt`.
 - Verify the dataset is correctly placed in the project directory.
 - Check the notebook outputs for any specific error messages.
 
-## Contributing
+## 🫂 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License

@@ -8,7 +8,7 @@ BetterGameRecommender is a machine learning-based system that recommends video g
 ![App Screenshot](https://raw.githubusercontent.com/HilalAhmad01/Game-Genie/main/Game_Genie/Screenshot2.png)
 
 
-## Features
+## :octocat: Features
 - Efficient game recommendations using NLP and similarity models.
 - Clean and modular notebook implementation.
 - Uses game metadata for enhanced recommendations.

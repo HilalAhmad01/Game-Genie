@@ -4,11 +4,11 @@ import streamlit as st
 from PIL import Image
 
 # Replace with your Gemini API key
-GEMINI_API_KEY = "AIzaSyCJa8romWJXguSljx3j4V5Wv2Mjf_Gl1EQ"
+GEMINI_API_KEY = "Your_Gemini_API_Key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Replace with your RAWG API key
-RAWG_API_KEY = "d10ba5f2f4ee488ab1da0ae6ae53267e"
+RAWG_API_KEY = "Your_Rawg_API_Key"
 
 # Initialize the Gemini model
 model = genai.GenerativeModel('gemini-2.0-flash')

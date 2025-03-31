@@ -1,17 +1,19 @@
 # BetterGameRecommender - Game Recommendation System
 
+![Game Recommendation System](Game_Genie/Game%20Recommendation%20System.gif)
+
+
 ## Overview
 BetterGameRecommender is a machine learning-based system that recommends video games based on the user's past gaming preferences. It leverages natural language processing and similarity algorithms to generate personalized suggestions.
-
-![App Screenshot](https://github.com/HilalAhmad01/Game-Genie/raw/main/Game_Genie/Screenshot.png)
-
-![App Screenshot](https://raw.githubusercontent.com/HilalAhmad01/Game-Genie/main/Game_Genie/Screenshot2.png)
 
 
 ## 📋 Features
 - Efficient game recommendations using NLP and similarity models.
 - Clean and modular notebook implementation.
 - Uses game metadata for enhanced recommendations.
+
+## 📸 Screenshot
+![App Screenshot](https://raw.githubusercontent.com/HilalAhmad01/Game-Genie/main/Game_Genie/Screenshot2.png)
 
 ## 📝 Requirements
 Ensure you have the following installed:

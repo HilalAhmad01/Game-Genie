@@ -1,10 +1,10 @@
-# BetterGameRecommender - Game Recommendation System
+# Game Genie - Game Recommendation System
 
 ![Game Recommendation System](Game_Genie/Game%20Recommendation%20System.gif)
 
 
 ## Overview
-BetterGameRecommender is a machine learning-based system that recommends video games based on the user's past gaming preferences. It leverages natural language processing and similarity algorithms to generate personalized suggestions.
+Game Genie is a machine learning-based system that recommends video games based on the user's past gaming preferences. It leverages natural language processing and similarity algorithms to generate personalized suggestions.
 
 
 ## 📋 Features
